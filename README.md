@@ -1,3 +1,2 @@
 # deluxe-website
-
-deluxe-website.netlify.app
+https://deluxe-website.netlify.app/
